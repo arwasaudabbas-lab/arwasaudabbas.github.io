@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dr. Arwa Saud Abbas</title>
+</head>
+
+<body>
+
+<h1>Dr. Arwa Saud Abbas</h1>
+
+<h2>Materials Science & Semiconductor Photonics</h2>
+
+<p>
+Welcome to my research website. My research interests include
+III-nitride semiconductor lasers, LEDs, microcavities,
+nanophotonics, and semiconductor device fabrication.
+</p>
+
+<nav>
+<a href="research.html">Research</a> |
+<a href="publications.html">Publications</a> |
+<a href="blog.html">Scientific Blog</a> |
+<a href="about.html">About</a>
+</nav>
+
+</body>
+</html>
